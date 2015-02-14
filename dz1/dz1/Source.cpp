@@ -2,6 +2,8 @@
 #include<conio.h>
 
 void main(){
+
+	int x;// variable for checking github
 	int n;
 	std::cin>>n;
 	int *a=new int[n];
